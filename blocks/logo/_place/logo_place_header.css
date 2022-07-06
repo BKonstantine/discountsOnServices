@@ -1,0 +1,8 @@
+.logo_place_header {
+  width: 55px;
+  height: 55px;
+  background-image: url(../../../images/header/logo.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
